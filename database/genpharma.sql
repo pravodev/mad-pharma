@@ -459,7 +459,7 @@ CREATE TABLE `settings` (
 --
 
 INSERT INTO `settings` (`id`, `name`, `sitelogo`, `sitetitle`, `description`, `copyright`, `contact`, `currency`, `symbol`, `email`, `address`) VALUES
-(1, 'Safeway Pharma', 'airline.PNG', 'Safeway Pharma', 'Safeway Pharma Bangladesh', 'Genit Bangladesh', '01779883969', 'TK', 'TK', 'safewaypharma18@gmail.com', 'La-58, Moddho Badda, Progati Sharani, Gulshan, Dhaka-1212.');
+(1, 'Safeway Pharma', 'airline.PNG', 'Safeway Pharma', 'Safeway Pharma Bangladesh', 'Apotek Roxy', '01779883969', 'TK', 'TK', 'safewaypharma18@gmail.com', 'La-58, Moddho Badda, Progati Sharani, Gulshan, Dhaka-1212.');
 
 -- --------------------------------------------------------
 

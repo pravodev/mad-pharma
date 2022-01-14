@@ -64,7 +64,7 @@
                     </div>
                 </div>
                         </div>
-            <footer class="footer"> © 2017 GenIT Bangladesh </footer>
+            <footer class="footer"> © 2017 Apotek Roxy </footer>
         </div>
 <!--Invoice and print view Modal-->
 <div class="modal fade" id="invoicemodal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">

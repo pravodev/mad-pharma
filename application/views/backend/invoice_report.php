@@ -113,7 +113,7 @@
 
             </div>
 
-            <footer class="footer"> © 2017 GenIT Bangladesh </footer>
+            <footer class="footer"> © 2017 Apotek Roxy </footer>
 
         </div>
 

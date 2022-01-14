@@ -497,7 +497,7 @@
                 });               
             </script>                        
 
-            <footer class="footer"> © 2017 GenIT Bangladesh </footer>
+            <footer class="footer"> © 2017 Apotek Roxy </footer>
 <script>
 $("#product_image").on("change", function() {
     if (typeof FileReader == "undefined") {

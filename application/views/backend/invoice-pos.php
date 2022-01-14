@@ -353,7 +353,7 @@ h4.previous-due-header {font-size: 14px; font-weight: 600;color: #eb0a8d;margin-
     </div>
   </div>
 </div> -->
-    <footer class="footer"> © 2017 GenIT Bangladesh 
+    <footer class="footer"> © 2017 Apotek Roxy 
     </footer>
   </div>
   <script>
