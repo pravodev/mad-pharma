@@ -77,7 +77,7 @@
                 }?>
                 <form class="form-horizontal form-material" method="post" id="loginform" action="counter/signIn">
                     <a href="javascript:void(0)" class="text-center db">
-                    <img src="<?php echo base_url(); ?>assets/images/home_logo.png" alt="Home" height="100" /></a>
+                    <img src="https://apotekroxy.com/assets/image/apotekroxy.png" alt="Home" height="100" style="width: 100%" /></a>
                     <div class="form-group m-t-40">
                         <div class="col-xs-12">
                             <input class="form-control" type="email" name="email" required="" placeholder="Username">

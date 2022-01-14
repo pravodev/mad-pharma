@@ -114,7 +114,7 @@
   <div class="modal-dialog modal-lg" style="75%" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <img src="<?php echo base_url(); ?>assets/images/home_logo.png" height="80" width="110" style="margin-left:330px" alt="homepage" class="dark-logo" />
+        <img src="https://apotekroxy.com/assets/image/apotekroxy.png" height="80" width="110" style="margin-left:330px; width: 100%" alt="homepage" class="dark-logo" />
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>

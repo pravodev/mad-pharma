@@ -146,7 +146,7 @@
   <div class="modal-dialog modal-lg" role="document">
     <div class="modal-content" style="width:1010px;margin-left: -100px">
       <div class="modal-header">
-        <img src="<?php echo base_url(); ?>assets/images/home_logo.png" height="80" width="110" style="margin-left:330px" alt="homepage" class="dark-logo" />
+        <img src="https://apotekroxy.com/assets/image/apotekroxy.png" height="80" width="110" style="margin-left:330px; width: 100%" alt="homepage" class="dark-logo" />
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
@@ -170,7 +170,7 @@
   <div class="modal-dialog modal-lg" style="75%" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <img src="<?php echo base_url(); ?>assets/images/home_logo.png" height="80" width="110" style="margin:auto" alt="homepage" class="dark-logo" />
+        <img src="https://apotekroxy.com/assets/image/apotekroxy.png" height="80" width="110" style="margin:auto; width: 100%" alt="homepage" class="dark-logo" />
         <button type="button" class="" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>

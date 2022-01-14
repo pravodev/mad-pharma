@@ -64,12 +64,7 @@
             <nav class="navbar top-navbar navbar-expand-md navbar-light">
                 <div class="navbar-header">
                     <a class="navbar-brand" href="<?php echo base_url();?>">
-                        <!-- Logo icon --><b>
-                            <img src="<?php echo base_url(); ?>assets/images/logo-icon.png" alt="homepage" class="dark-logo" />
-                            <img src="<?php echo base_url(); ?>assets/images/logo-light-icon.png" alt="homepage" class="light-logo" />
-                        </b><span>
-                         <img src="<?php echo base_url(); ?>assets/images/logo-text.png" alt="homepage" class="dark-logo" />   
-                         <img src="<?php echo base_url(); ?>assets/images/logo-light-text.png" class="light-logo" alt="homepage" /></span> </a>
+                        <span><img src="https://apotekroxy.com/assets/image/apotekroxy.png" alt="homepage" class="" style="width: 100%; padding: 20px; margin-top: 20px" />   </span> </a>
                 </div>
                 <div class="navbar-collapse">
                     <ul class="navbar-nav mr-auto mt-md-0">
